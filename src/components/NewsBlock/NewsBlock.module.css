@@ -1,0 +1,35 @@
+.newsBlock {
+    /*border: 1px solid #ccc;*/
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.newsBlock img {
+    max-width: 100%;
+    height: auto;
+    width: 300px; /* Измените размер по желанию */
+    margin-bottom: 10px;
+}
+
+.newsBlock h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.newsText {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.newsDate {
+    color: #888;
+}
+
+.newsBlock hr {
+    width: 100%;
+}
