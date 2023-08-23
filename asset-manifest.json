@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auth-app/static/css/main.c9da90d3.css",
+    "main.js": "/auth-app/static/js/main.811aa36c.js",
+    "static/js/787.1bbea68f.chunk.js": "/auth-app/static/js/787.1bbea68f.chunk.js",
+    "index.html": "/auth-app/index.html",
+    "main.c9da90d3.css.map": "/auth-app/static/css/main.c9da90d3.css.map",
+    "main.811aa36c.js.map": "/auth-app/static/js/main.811aa36c.js.map",
+    "787.1bbea68f.chunk.js.map": "/auth-app/static/js/787.1bbea68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9da90d3.css",
+    "static/js/main.811aa36c.js"
+  ]
+}
